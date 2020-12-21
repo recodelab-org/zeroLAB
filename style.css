@@ -1,0 +1,43 @@
+/*
+Theme Name: zeroLAB
+Description: zeroLAB – a totally naked WordPress theme for you to start your theme development . From zero to hero …
+Theme URI: https://github.com/recodelab-org/zeroLAB
+
+Author: Enno Hyttrek
+Author URI: www.recodelab.com
+Version: 1.1.0
+
+Copyright (C) 2020  Enno Hyttrek
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+https://www.gnu.org/licenses/
+*/
+
+
+/*-------------
+IMPORTS
+-------------*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700&display=swap');
+/*font-family: 'Roboto', sans-serif;*/
+
+
+/*-------------
+RESET
+-------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
