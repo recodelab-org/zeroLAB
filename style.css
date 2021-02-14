@@ -1,6 +1,6 @@
 /*
 Theme Name: zeroLAB
-Description: zeroLAB – a totally naked WordPress theme for you to start your theme development . From zero to hero …
+Description: zeroLAB – a totally naked WordPress theme for you to start your theme development. From zero to hero …
 Theme URI: https://github.com/recodelab-org/zeroLAB
 
 Author: Enno Hyttrek
@@ -34,7 +34,6 @@ RESET
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth;
 }
 
 body {
