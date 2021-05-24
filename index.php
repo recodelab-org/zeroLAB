@@ -20,8 +20,21 @@ https://www.gnu.org/licenses/
 
 <body <?php body_class(); ?>>
 
-<p>Hello! I am just static text, hardcoded into the index.php HTML code. You need to replace and supplement me with the proper WP functions to make me dynamic …</p>
+    <div class="wrapper content-wrapper">
+        <article>
+            <h1>Placeholder</h1>
+            <p>Hello! I am just static text, hardcoded into the index.php HTML code. You need to replace and supplement me with the proper WP functions (I suggest to head over to <a href="https://developer.wordpress.org" target="_blank">developer.wordpress.org</a> for that) to make the site dynamic and let WordPress take over …</p>
+            <p>
+            Please press this button to test JavaScript:  <button onclick="testJavaScript()">JavaScript Test</button>
+            </p>
+        </article>
+    </div>
 
 </body>
+
+<footer>
+
+    <?php wp_footer() ?>
+</footer>
 
 </html>

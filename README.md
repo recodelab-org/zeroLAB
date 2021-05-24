@@ -1,7 +1,7 @@
 # zeroLAB
-A WordPress theme that contains only the absolute necessary elements to be recognized as a WP theme: functions.php, style.css and index.php, all of which as empty as possible (with the exception of a bit of Google Fonts magic to render the text in Roboto, because system fonts, especially Arial, cause me eye cancer). It is the most basic starter theme I personally know of. You will have to literally build everything yourself from here. Hint: the WordPress Developer Handbook is your friend! developer.wordpress.org
+Version 1.1.2
 
-Please have a look at the stylesheet code (style.css) before you start. For example: if you are the paranoid type, you might want to delete the @import rule for connecting to Google fonts and be happy with Arial or whatever your system gives you for sans serif. Or you are in the know, how to use @font-face o local webfonts and start your coding journey on a light note from there …
+A WordPress theme that contains only the absolute necessary elements to be recognized as a WP theme: functions.php, style.css and index.php, all of which as empty as possible with some few exceptions: for example I added the beautiful open source font <a href="https://github.com/rsms/inter">Inter</a> (because system fonts, especially Arial, cause me eye cancer) and a few bits of basic CSS and structure in the stylesheet. It is the most basic starter theme I personally know of. You will have to literally build everything yourself from here. Hint: the <a href="https://developer.wordpress.org" target="_blank">WordPress Developer Handbook</a> is your friend!
 
 Enjoy
 
@@ -20,3 +20,5 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 https://www.gnu.org/licenses/
+
+Please also read the license text for the font Inter in the fonts/inter folder.

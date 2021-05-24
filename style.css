@@ -5,7 +5,7 @@ Theme URI: https://github.com/recodelab-org/zeroLAB
 
 Author: Enno Hyttrek
 Author URI: www.recodelab.com
-Version: 1.1.0
+Version: 1.1.2
 
 Copyright (C) 2020  Enno Hyttrek
 
@@ -16,14 +16,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 https://www.gnu.org/licenses/
 */
 
-
-/*-------------
-IMPORTS
--------------*/
-
-
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700&display=swap');
-/*font-family: 'Roboto', sans-serif;*/
 
 
 /*-------------
@@ -36,7 +28,55 @@ RESET
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+/*-------------
+LAYOUT
+-------------*/
+
+h1,h2,h3,h4,h5,h6,p,ul,ol {
+    padding: 1em 20px;
 }
+
+p {
+    padding-top: 0;
+}
+
+/*-------------
+NAVIGATION
+-------------*/
+
+/*-------------
+TYPOGRAPHY
+-------------*/
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+}
+
+/*-------------
+COLOR & STYLE
+-------------*/
+
+
+
+/*-------------
+RESPONSIVE
+-------------*/
+
+@media only screen and (min-width: 544px) {
+    
+}
+
+@media only screen and (min-width: 921px) {
+    
+    .content-wrapper {
+        max-width: 60em;
+        margin: 0 auto;
+    }
+    
+}
+
+/*-------------
+DEV OVERRIDES
+-------------*/
