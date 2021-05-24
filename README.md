@@ -7,9 +7,10 @@ A WordPress theme that contains only the absolute necessary elements to be recog
 
 Enjoy
 
-recodeLAB
-studio@recodelab.com
-www.recodelab.com
+Enno Hyttrek
+<br>recodeLAB
+<br>studio@recodelab.com
+<br>www.recodelab.com
 
 
 ---
