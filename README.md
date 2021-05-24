@@ -1,6 +1,7 @@
 # zeroLAB
 
 =======
+
 Version 1.1.2
 
 A WordPress theme that contains only the absolute necessary elements to be recognized as a WP theme: functions.php, style.css and index.php, all of which as empty as possible (with the exception of a bit of Google Fonts magic to render the text in Roboto, because system fonts, especially Arial, cause us eye cancer). It is the most basic starter theme I personally know of. You will have to literally build everything yourself from here. Hint: the WordPress Developer Handbook is your friend! developer.wordpress.org
